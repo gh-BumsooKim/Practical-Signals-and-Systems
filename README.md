@@ -10,3 +10,7 @@
   <img src="2-Dimension/pcolor-figure01.png" width=40%>
   <img src="2-Dimension/surf-figure01.png" width=40%>
 </p>
+
+<p align="center">
+  <img src="2-Dimension/pcolor-figure02.gif">
+</p>
