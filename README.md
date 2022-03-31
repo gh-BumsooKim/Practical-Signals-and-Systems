@@ -32,3 +32,8 @@ Analysis of some Instruments Using DTFS
 
 ## 2) Synthesis of Music Signal Using DTFS and IDTFS
 Generation of a Simple Song Using DTFS and IDTFS
+
+![C4_hammonica](https://user-images.githubusercontent.com/67869508/161049185-071c2cb0-5354-4767-945c-8a2465fe8553.png)
+![C3_piano](https://user-images.githubusercontent.com/67869508/161049178-860ccc70-35f1-4549-80d5-b72adf9337c7.png)
+![A4_guitar](https://user-images.githubusercontent.com/67869508/161049142-09ef4340-8b3f-4246-89b6-dd57a4d080a0.png)
+
