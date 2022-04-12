@@ -12,6 +12,7 @@ Result and source code of analysis about signals and systems using [MATLAB](http
 ## Analysis Tools
 
 - [**Fourier Series** (푸리에 급수)](https://en.wikipedia.org/wiki/Fourier_series)
+- [**Fourier Transform** (푸리에 변환)](https://en.wikipedia.org/wiki/Fourier_transform) : [**DFT** (이산 푸리에 변환)](https://en.wikipedia.org/wiki/Discrete_Fourier_transform) + [**FFT** (고속 푸리에 변환)](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2b/Fourier_series_and_transform.gif)
 
